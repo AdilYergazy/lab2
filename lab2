@@ -1,0 +1,71 @@
+Booleans:
+1) True
+2) False
+3) False
+4) True
+5) False
+Operators:
+1) print(10 * 5)
+2) print(10 / 2)
+3) if "apple" in fruits:
+4) if 5 != 10:
+5) if 5 == 10 or 4 == 4:
+Python lists:
+1) print(fruits[1])
+2) fruits[0] = "kiwi"
+3) fruits.append("orange")
+4) fruits.insert(1, "lemon")
+5) fruits.remove("banana")
+6) print(fruits[-1])
+7) print(fruits[2:5])
+8) print(len(fruits))
+Tuples:
+1) print(fruits[0])
+2) print(len(fruits))
+3) print(fruits[-1])
+4) print(fruits[2:5])
+Sets:
+1) if "apple" in fruits:
+2) fruits.add("orange")
+3) fruits.update(more_fruits)
+4) fruits.remove("banana")
+5) fruits.discard("banana")
+Dictionaries:
+1) print(car.get("model")
+2) car["year"] = 2020
+3) car["color"] = "red"
+4) car.pop("model")
+5) car.clear()
+If Else:
+1) if a > b:
+	print("Hello world!")
+2) if a != b:
+3) if a == b:
+	print("Yes")
+   else:
+	print("No")
+4) if a == b:
+	print("1")
+   elif a > b:
+	print("2")
+   else:
+	print("3")
+5) if a == b and c == d:
+6) if a == b or c == d:
+7) 	print("YES")
+8) print("YES") if a == b else print("NO")
+9) if a == c or b == c:
+While Loops:
+1) while i < 6:
+2) if i == 3:
+	break
+3) continue
+4) else:
+For loops:
+1) for x in fruits:
+2) if x == "banana":
+	continue
+3) for i in range(6):
+4) if x == "banana":
+	break
+
